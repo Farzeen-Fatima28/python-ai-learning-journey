@@ -27,3 +27,16 @@ Android developer, currently doing an SEO internship, transitioning into full-st
 pip install -r requirements.txt
 ```
 Create a `.env` file with:
+```
+GEMINI_API_KEY=your_key_here
+```
+## Progress
+- [x] Data types, loops, functions
+- [x] OOP (classes, objects, `self`)
+- [x] Modules (`random`, `datetime`)
+- [x] Data validation with Pydantic
+- [x] Calling LLM APIs (Gemini)
+- [x] Error handling (`try`/`except`)
+- [x] Chatbot memory & conversation state
+- [ ] File handling
+- [ ] Building a Streamlit app
