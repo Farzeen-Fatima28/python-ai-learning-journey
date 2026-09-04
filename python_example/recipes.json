@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Mixed Rice",
+    "calories": 350,
+    "ingredients": [
+      "rice",
+      "potato",
+      "peas",
+      "carrot",
+      "onion",
+      "cumin seeds",
+      "garam masala"
+    ]
+  },
+  {
+    "title": "Yellow Dal",
+    "calories": 280,
+    "ingredients": [
+      "lentils",
+      "onion",
+      "tomato",
+      "cumin"
+    ]
+  },
+  {
+    "title": "Chicken Karahi",
+    "calories": 450,
+    "ingredients": [
+      "chicken",
+      "tomato",
+      "green chili",
+      "ginger garlic paste"
+    ]
+  }
+]
