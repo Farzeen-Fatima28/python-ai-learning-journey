@@ -2,39 +2,39 @@
   "items": [
     {
       "topic": "Python Basics (Data Storage)",
-      "action": "Create a dictionary containing your name and favorite hobbies, then store it inside a list."
+      "action": "Create a dictionary representing your favorite book with keys for the title, author, and a list of main characters."
     },
     {
       "topic": "Functions (Reusable Code)",
-      "action": "Write a function that accepts a name and an optional greeting, returning a complete sentence."
+      "action": "Write a function that accepts a name and an optional greeting, returning a formatted greeting string."
     },
     {
       "topic": "Object-Oriented Programming (Blueprints)",
-      "action": "Define a Dog class with name and breed attributes, and a method that prints a custom bark."
+      "action": "Define a Car class with make and model attributes, and write a method that simulates starting the engine."
     },
     {
       "topic": "Modules (Built-in Tools)",
-      "action": "Write a script that uses the random module to pick a random date in the next seven days using datetime."
+      "action": "Use the random module to select and print a random name from a list of five elements."
     },
     {
       "topic": "Pydantic (Data Guardrails)",
-      "action": "Create a Pydantic model for a user profile that validates an email address and age."
+      "action": "Create a Pydantic model for a user profile that validates the age is an integer and the email contains an @ symbol."
     },
     {
       "topic": "Error Handling (Crash Prevention)",
-      "action": "Wrap a division-by-zero calculation in a try-except block to print a friendly error message instead of crashing."
+      "action": "Write a try-except block that handles a division by zero error and prints a friendly error message."
     },
     {
       "topic": "Calling an LLM (Connecting to AI)",
-      "action": "Write a short script to initialize the Gemini API client and send a prompt asking for a creative joke."
+      "action": "Write a Python script to send a basic text prompt to the Gemini API and print the generated response."
     },
     {
       "topic": "Chatbot Memory (Keeping Context)",
-      "action": "Implement a chat loop that appends user prompts and model responses to a history list to maintain conversation context."
+      "action": "Implement a multi-turn conversation loop using the Gemini SDK to maintain chat context across three questions."
     },
     {
       "topic": "Common Debugging Lessons (Fixing Problems)",
-      "action": "Intentionally write code with a SyntaxError or TypeError, run it to see the traceback, and fix it using the debugger clues."
+      "action": "Intentionally trigger a KeyError in a dictionary lookup, read the error output, and add a check to prevent it."
     }
   ]
 }
