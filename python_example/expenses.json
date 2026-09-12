@@ -1,0 +1,42 @@
+[
+  {
+    "amount": 12.5,
+    "category": "food",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 12.5,
+    "category": "food",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 12.5,
+    "category": "food",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 30.0,
+    "category": "transport",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 12.5,
+    "category": "food",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 30.0,
+    "category": "transport",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 12.5,
+    "category": "food",
+    "date": "2026-09-10"
+  },
+  {
+    "amount": 30.0,
+    "category": "transport",
+    "date": "2026-09-10"
+  }
+]
