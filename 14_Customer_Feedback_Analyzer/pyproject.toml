@@ -1,0 +1,23 @@
+[project]
+name = "14-customer-feedback-analyzer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Farzeen Fatima", email = "farzeenbhattti97@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "fastapi[standard]>=0.141.1",
+    "google-genai>=2.24.0",
+    "python-dotenv>=1.2.3",
+    "requests>=2.34.2",
+    "streamlit>=1.64.0",
+]
+
+[project.scripts]
+14-customer-feedback-analyzer = "14_customer_feedback_analyzer:main"
+
+[build-system]
+requires = ["uv_build>=0.12.17,<0.13.0"]
+build-backend = "uv_build"
